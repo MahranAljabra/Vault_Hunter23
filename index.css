@@ -1,0 +1,50 @@
+body {background-image: url("mpatches_210901_ecl1072_orc_waiter_copy.0.jpg");
+width: auto;
+height: auto;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1 {color: rgb(235, 15, 15);
+text-align: center;
+font-family: orcfont;
+font-size: xx-large;
+background-color: rgb(184, 168, 29);
+max-width: 500px;
+margin-top: 0px;}
+p {color: hwb(0 100% 0%);
+font-size: large;
+font-family: orcfont;
+background-color: rgba(0, 0, 0, 0);}
+h2{color: rgb(4, 145, 35);
+font-family: orcfont;
+font-size: x-large;}
+.menu{background-color:rgba(222, 184, 135, 0);
+width: 80%;
+margin: auto;
+padding: 20px;
+margin-right: auto;
+max-width: auto;
+max-height: auto;}
+.Appetizers {text-align: left;
+width: 75%;}
+.price {text-align: right;
+    width: 25%;}
+.item p, p {display: inline-block;}
+.maindishes {color: red;}
+.Welcome{font-style: italic;
+font-family:orcfont;}
+footer {text-align: center;}
+.V {font-family:orcfont;}
+.Drinks {color: rgb(248, 112, 0);}
+hr {height: 3px;
+background-color: rgb(231, 12, 12);
+border-color: #020f33;}
+a {color: aqua;}
+img {display: block;
+    margin-right: auto;
+margin-left: auto;}
+
+@font-face {
+    font-family: orcfont;
+    src: url(Shadow\ of\ the\ Deads.ttf);
+}
